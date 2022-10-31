@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid grey;
+    border-radius: 10px;
+    height: 500px;
+    width: 400px;
+}
+.container-card{
+    margin-top: 100px;
+}
+.btn{
+    width: 100px;
+    height: 50px;
+    font-size: 1rem;
+    margin: 20px 30px;
+    background-color: #fcb228;
+    border-color: #fcb228;
+    border-radius: 5px;
+    color: rgb(71, 70, 70);
+}
+.btn:hover{
+ background-color: #d18b08;
+ border-color: #d18b08;
+}
